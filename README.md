@@ -2,6 +2,10 @@
 Open source program for visualizing tables of squares, 2D arrays and more!
 ![Windows logo drawn inside PyBoard](/screenshots/image4.png)
 
+## tkinter GUI
+PyBoard uses tkinter GUI library, so its runnable on Windows and also Linux.
+![PyBoard in Linux Mint](/screenshots/linux_image1.png)
+
 ## Palette with tools
 Use the tool palette on the left side to tweak current painting tools.
 If the tool's checkbox is ticked, the tool is used.
